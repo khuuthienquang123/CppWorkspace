@@ -6,7 +6,7 @@
  
 using namespace std;
 
-//test1
+//test2
 
 string membersFile = "members.txt" ;
 string motorbikeFile = "mmotorbike.txt";
